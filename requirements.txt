@@ -1,0 +1,10 @@
+streamlit
+openai
+langchain
+langchain-core
+langchain-openai
+python-dotenv
+tiktoken
+pytube
+youtube-transcript-api
+chromadb
