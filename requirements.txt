@@ -8,3 +8,4 @@ tiktoken
 pytube
 youtube-transcript-api
 chromadb
+langchain-text-splitters
